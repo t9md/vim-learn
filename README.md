@@ -3,7 +3,7 @@ Github Wiki
 https://github.com/blog/699-making-github-more-open-git-backed-wikis
 http://melborne.github.io/2012/12/03/when-bloggers-become-publishers/
 
-Blog
+Blog and Sites
 ==================================
 * [Ujihisa's VAC@230][ujihisa-vac230]
 * [Vimrc 読書会][vimrc-reading]
