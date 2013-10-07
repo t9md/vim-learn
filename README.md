@@ -12,7 +12,7 @@ Blog
 * [Vimスクリプト基礎文法最速マスター][thinca-bunpou-saisoku]
 * [Vim Tips Wiki - Wikia][vim-tips-wikia]
 * [Learn Vimscript the Hard Way][LVTHW]
-* [Qiita (キータ) vim][Quiita-vim]
+* [Qiita (キータ) vim][Qiita-vim]
 * [Vimの極め方 by Kana ][kana-vimworkshop3-2008]
 * [Blog by Kana][kana-blog]
 * [VIM CASTS.org][vimcasts]
