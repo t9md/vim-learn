@@ -12,6 +12,11 @@ Blog
 * [Vimスクリプト基礎文法最速マスター][thinca-bunpou-saisoku]
 * [Vim Tips Wiki - Wikia][vim-tips-wikia]
 * [Learn Vimscript the Hard Way][LVTHW]
+* [Qiita (キータ) vim][Quiita-vim]
+* [Vimの極め方 by Kana ][kana-vimworkshop3-2008]
+* [Blog by Kana][kana-blog]
+* [VIM CASTS.org][vimcasts]
+* [vim-users.jp][vim-users.jp]
 
 [ujihisa-vac230]:https://gist.github.com/ujihisa/6027100
 [vimrc-reading]:http://vim-jp.org/reading-vimrc/
@@ -20,6 +25,11 @@ Blog
 [thinca-bunpou-saisoku]:http://d.hatena.ne.jp/thinca/20100201/1265009821
 [vim-tips-wikia]:http://vim.wikia.com/wiki/Vim_Tips_Wiki
 [LVTHW]:http://learnvimscriptthehardway.stevelosh.com
+[Qiita-vim]:http://qiita.com/tags/vim
+[kana-vimworkshop3-2008]:http://whileimautomaton.net/2008/08/vimworkshop3-kana-presentation
+[vimcasts]:http://vimcasts.org
+[kana-blog]:http://whileimautomaton.net
+[vim-users.jp]:http://vim-users.jp
 
 Help
 ==================================
@@ -28,78 +38,21 @@ Help
 
 [help-jp]:http://vim-jp.org/vimdoc-ja/
 
-* [Learn Vimscript the Hard Way][LVTHW]が言及している help は以下
-`:help has_key()`
-`:help echom`
-`:help messages`
-`:help 'number'`
-`:help relativenumber`
-`:help numberwidth`
-`:help wrap`
-`:help shiftround`
-`:help matchtime`
-`:help unmap`
-`:help mapleader`
-`:help maplocalleader`
-`:help myvimrc`
-`:help local-options`
-`:help setlocal`
-`:help map-local`
-`:help autocmd-groups`
-`:help omap-info`
-`:help normal`
-`:help execute`
-`:help expr-quote`
-`:help registers`
-`:help ignorecase`
-`:help expr4`
-`:help :call`
-`:help E124`
-`:help return`
-`:help function-argument`
-`:help local-variables`
-`:help Float`
-`:help floating-point-precision`
-`:help expr-quote`
-`:help i_CTRL-V`
-`:help literal-string`
-`:help split()`
-`:help join()`
-`:help functions`
-`:help leftabove`
-`:help rightbelow`
-`:help :split`
-`:help :vsplit`
-`:help normal`
-`:help expr-quote`
-`:help magic`
-`:help pattern-overview`
-`:help match`
-`:help nohlsearch`
-`:help :make`
-`:help quickfix-window`
-`:help :grep`
-`:help cword`
-`:help cnext`
-`:help cprevious`
-`:help expand`
-`:help copen`
-`:help silent`
-`:help visualmode()`
-`:help c_ctrl-u`
-`:help operatorfunc`
-`:help map-operator`
-`:help <SID>`
-`:help List`
-`:help add()`
-`:help len()`
-`:help get()`
-`:help index()`
-`:help join()`
-`:help reverse()`
-`:help for`
-`:help while`
-`:help Dictionary`
-`:help get()`
-`:help echo`
-
+* [Learn Vimscript the Hard Way][LVTHW]が言及している help は以下  
+`:help has_key()` `:help echom` `:help messages` `:help 'number'` `:help
+relativenumber` `:help numberwidth` `:help wrap` `:help shiftround` `:help
+matchtime` `:help unmap` `:help mapleader` `:help maplocalleader` `:help
+myvimrc` `:help local-options` `:help setlocal` `:help map-local` `:help
+autocmd-groups` `:help omap-info` `:help normal` `:help execute` `:help
+expr-quote` `:help registers` `:help ignorecase` `:help expr4` `:help :call`
+`:help E124` `:help return` `:help function-argument` `:help local-variables`
+`:help Float` `:help floating-point-precision` `:help expr-quote` `:help
+i_CTRL-V` `:help literal-string` `:help split()` `:help join()` `:help
+functions` `:help leftabove` `:help rightbelow` `:help :split` `:help :vsplit`
+`:help normal` `:help expr-quote` `:help magic` `:help pattern-overview` `:help
+match` `:help nohlsearch` `:help :make` `:help quickfix-window` `:help :grep`
+`:help cword` `:help cnext` `:help cprevious` `:help expand` `:help copen`
+`:help silent` `:help visualmode()` `:help c_ctrl-u` `:help operatorfunc`
+`:help map-operator` `:help <SID>` `:help List` `:help add()` `:help len()`
+`:help get()` `:help index()` `:help join()` `:help reverse()` `:help for`
+`:help while` `:help Dictionary` `:help get()` `:help echo`
