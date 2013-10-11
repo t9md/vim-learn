@@ -17,6 +17,8 @@ Blog and Sites
 * [Blog by Kana][kana-blog]
 * [VIM CASTS.org][vimcasts]
 * [vim-users.jp][vim-users.jp]
+* [reddit-vim][reddit-vim]
+* [vim-ml][vim-ml]
 
 [ujihisa-vac230]:https://gist.github.com/ujihisa/6027100
 [vimrc-reading]:http://vim-jp.org/reading-vimrc/
@@ -30,6 +32,8 @@ Blog and Sites
 [vimcasts]:http://vimcasts.org
 [kana-blog]:http://whileimautomaton.net
 [vim-users.jp]:http://vim-users.jp
+[reddit-vim]: http://reddit.com/r/vim/
+[vim-ml]: http://www.vim.org/maillist.php
 
 Help
 ==================================
