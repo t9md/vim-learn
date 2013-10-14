@@ -19,6 +19,7 @@ Blog and Sites
 * [vim-users.jp][vim-users.jp]
 * [reddit-vim][reddit-vim]
 * [vim-ml][vim-ml]
+* [A vim Primer][A-vim-primer]
 
 [ujihisa-vac230]:https://gist.github.com/ujihisa/6027100
 [vimrc-reading]:http://vim-jp.org/reading-vimrc/
@@ -34,6 +35,7 @@ Blog and Sites
 [vim-users.jp]:http://vim-users.jp
 [reddit-vim]: http://reddit.com/r/vim/
 [vim-ml]: http://www.vim.org/maillist.php
+[a-vim-primer]:http://danielmiessler.com/study/vim/
 
 Help
 ==================================
